@@ -1,0 +1,21 @@
+.custom{
+    padding-right: 10px;
+    height: 250px;
+ }
+ .width{
+    height: 250px;
+ }
+ .custom-m{
+    margin: 5px;
+    width: 271px !important; 
+ }
+ .custom-height{
+    height: 250px;
+ }
+ /* Device responisve */
+ 
+ @media screen and (max-width:778px) {
+    .custom-height{
+       height:400px;
+    } 
+ }  
